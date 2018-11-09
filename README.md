@@ -1,6 +1,6 @@
 # CFA简介
+![CFA_LOG](/assets/CFA.jpg)
 
-![](/assets/CFA.jpg)
 ## 目录
 * [简介](README.md)
 * [第一章 CFA项目背景](项目背景/README.md)
