@@ -1,7 +1,5 @@
-# CFA简介
+## CFA学习笔记
 ![CFA_LOG](/assets/CFA.jpg)
-
-## 目录
 * [简介](README.md)
 * [第一章 CFA项目背景](项目背景/README.md)
   * [1.CFA报考条件](项目背景/CFA报考条件.md)
